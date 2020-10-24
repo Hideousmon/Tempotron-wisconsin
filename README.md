@@ -1,5 +1,5 @@
 # Tempotron-wisconsin
- Spiking neuro model Tempotron with Wisconsin Dataset.
+ Spiking neuro model Tempotron with Wisconsin Dataset. :man_factory_worker: 
 
 ### Dependency
 
