@@ -6,7 +6,7 @@
 * pandas
 * numpy
 * sklearn
-* matplotlab
+* matplotlib
 * tqdm
 
 ### Run
